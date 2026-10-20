@@ -1,1 +1,1 @@
-# Oden Video Editor
+# Oden Animation Maker
